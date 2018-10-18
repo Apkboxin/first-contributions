@@ -26,6 +26,7 @@
 - [David Chandra](https://github.com/davidchandra95)
 - [Chiu](https://github.com/achiuBAE)
 - [Gabryelle Soares](https://github.com/gabsoares11)
+- [ApkboxIN](https://github.com/Apkboxin/)
 - [Miguel Ballesteros](https://github.com/AlfaOmegaX)
 - [Charvi](https://github.com/cm7799)
 - [Carlos Carvalho](http://github.com/chcdc)
